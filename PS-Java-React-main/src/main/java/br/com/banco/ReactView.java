@@ -15,9 +15,6 @@ public class ReactView extends AbstractUrlBasedView {
 
 	@Override
 	protected void renderMergedOutputModel(Map<String, Object> model, HttpServletRequest request,
-			HttpServletResponse response) throws Exception {
-		// Lógica de renderização do componente React
-        // para renderizar o componente React em HTML e enviá-lo como resposta ao cliente
-		
+			HttpServletResponse response) throws Exception {		
 	}
 }
